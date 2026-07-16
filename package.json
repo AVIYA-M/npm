@@ -1,0 +1,14 @@
+
+{
+  "name": "pnode-js4",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "NPM practice exercises",
+  "main": "ex5_1.js",
+  "scripts": {
+    "ex1": "node ex5_1.js",
+    "ex2": "node ex5_2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
